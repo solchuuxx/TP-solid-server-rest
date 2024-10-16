@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "brand": "Toyota Mongo",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 20000
+  },
+  {
+    "id": "2",
+    "brand": "Toyota Postgres",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 20000
+  },
+  {
+    "id": "3",
+    "brand": "Toyota Postgres",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 20000
+  }
+]
